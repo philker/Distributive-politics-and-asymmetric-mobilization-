@@ -1,4 +1,2 @@
-# Distributive-politics-and-asymmetric-mobilization-
-Current version of the working paper
-## Abstract
- Can broadly targeted welfare policy create electoral dynamics similar to particularistic strategies? We theorize a novel mechanism, we call asymmetric mobilization, which explains mobilization as a self-selection process induced by a broadly targeted benefit. Asymmetric mobilization is based on incomplete information of citizens about the de facto allocation of benefits. When citizens expect particularistic allocation, and access to the benefit depends on voter registration, supporters of the incumbent, who supplies the benefit, self-select into the electorate. This creates an incumbency advantage. We illustrate the argument using the case of the Renda Básica de Cidadania (RBC) in Maricá, Brazil, the largest unconditional cash transfer program in Latin America. Based on qualitative evidence we develop our argument in a formal model, which we test against novel survey data. We find that under the de facto procedure of implementation, supporters of the incumbent supplying the RBC, self-select into the electorate, and engage more in activities, which signal party loyalty.
+# Distributive-politics-and-asymmetric-participation-
+Current version of the paper
